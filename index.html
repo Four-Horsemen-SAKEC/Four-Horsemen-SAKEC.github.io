@@ -1,0 +1,470 @@
+<html>
+  <head>
+    <title>Data Portal</title>
+    <script src="//code.jquery.com/jquery-3.3.1.min.js"></script>
+    <link rel="stylesheet" href="/css/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+      integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/solid.min.css"
+      integrity="sha512-jQqzj2vHVxA/yCojT8pVZjKGOe9UmoYvnOuM/2sQ110vxiajBU+4WkyRs1ODMmd4AfntwUEV4J+VfM6DkfjLRg=="
+      crossorigin="anonymous"
+    />
+    <link
+      href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+      crossorigin="anonymous"
+    ></script>
+    <script src="/js/main.js" defer></script>
+  </head>
+
+  <body>
+    <div class="page-wrapper chiller-theme toggled">
+      <a id="show-sidebar" class="btn btn-sm btn-dark" href="#">
+        <i class="fas fa-bars"></i>
+      </a>
+      <nav id="sidebar" class="sidebar-wrapper">
+        <div class="sidebar-content">
+          <div class="sidebar-brand">
+            <a href="#">Data Portal</a>
+            <div id="close-sidebar">
+              <i class="fas fa-times"></i>
+            </div>
+          </div>
+          <!-- sidebar-header  -->
+          <div class="sidebar-search">
+            <div>
+              <div class="input-group">
+                <input
+                  type="text"
+                  class="form-control search-menu"
+                  placeholder="Search..."
+                />
+                <div class="input-group-append">
+                  <span class="input-group-text">
+                    <i class="fa fa-search p-1" aria-hidden="true"></i>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- sidebar-search  -->
+          <div class="sidebar-menu">
+            <ul>
+              <li class="header-menu">
+                <span>General</span>
+              </li>
+              <li class="sidebar-dropdown">
+                <a href="#">
+                  <i class="fa fa-tachometer-alt"></i>
+                  <span>Datasets</span>
+                  <span class="badge badge-pill badge-warning">New</span>
+                </a>
+                <div class="sidebar-submenu">
+                  <ul>
+                    <li>
+                      <a href="#"
+                        >Iris Dataset
+                        <span class="badge badge-pill badge-success">New</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">MNIST Dataset</a>
+                    </li>
+                    <li>
+                      <a href="#">IMDB Movie Review Dataset</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="sidebar-dropdown">
+                <a href="#">
+                  <i class="fa fa-shopping-cart"></i>
+                  <span>ML Datasets</span>
+                  <span class="badge badge-pill badge-danger">3</span>
+                </a>
+                <div class="sidebar-submenu">
+                  <ul>
+                    <li>
+                      <a href="#">Products </a>
+                    </li>
+                    <li>
+                      <a href="#">Orders</a>
+                    </li>
+                    <li>
+                      <a href="#">Credit cart</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="sidebar-dropdown">
+                <a href="#">
+                  <i class="far fa-gem"></i>
+                  <span>Image Datasets</span>
+                </a>
+                <div class="sidebar-submenu">
+                  <ul>
+                    <li>
+                      <a href="#">General</a>
+                    </li>
+                    <li>
+                      <a href="#">Panels</a>
+                    </li>
+                    <li>
+                      <a href="#">Tables</a>
+                    </li>
+                    <li>
+                      <a href="#">Icons</a>
+                    </li>
+                    <li>
+                      <a href="#">Forms</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="sidebar-dropdown">
+                <a href="#">
+                  <i class="fa fa-chart-line"></i>
+                  <span>Stocks Datasets</span>
+                </a>
+                <div class="sidebar-submenu">
+                  <ul>
+                    <li>
+                      <a href="#">Pie chart</a>
+                    </li>
+                    <li>
+                      <a href="#">Line chart</a>
+                    </li>
+                    <li>
+                      <a href="#">Bar chart</a>
+                    </li>
+                    <li>
+                      <a href="#">Histogram</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="sidebar-dropdown">
+                <a href="#">
+                  <i class="fa fa-globe"></i>
+                  <span>Geospatial Datasets</span>
+                </a>
+                <div class="sidebar-submenu">
+                  <ul>
+                    <li>
+                      <a href="#">Google maps</a>
+                    </li>
+                    <li>
+                      <a href="#">Open street map</a>
+                    </li>
+                  </ul>
+                </div>
+              </li>
+              <li class="header-menu">
+                <span>Extas</span>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="fa fa-book"></i>
+                  <span>Documentation</span>
+                  <span class="badge badge-pill badge-primary">Beta</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="fa fa-calendar"></i>
+                  <span>Calendar</span>
+                </a>
+              </li>
+              <li>
+                <a href="#">
+                  <i class="fa fa-folder"></i>
+                  <span>Examples</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <!-- sidebar-menu  -->
+        </div>
+        <!-- sidebar-content  -->
+        <div class="sidebar-footer">
+          <a href="#">
+            <i class="fa fa-bell p-2"></i>
+            <span class="badge badge-pill badge-warning notification">3</span>
+          </a>
+          <a href="#">
+            <i class="fa fa-envelope p-2"></i>
+            <span class="badge badge-pill badge-success notification">7</span>
+          </a>
+          <a href="#">
+            <i class="fa fa-cog p-2"></i>
+            <span class="badge-sonar"></span>
+          </a>
+          <a href="#">
+            <i class="fa fa-power-off p-2"></i>
+          </a>
+        </div>
+      </nav>
+      <!-- sidebar-wrapper  -->
+      <main class="page-content">
+        <div class="container">
+          <h2>Shah and Anchor Data Portal</h2>
+          <hr />
+          <div class="row">
+            <div class="form-group col-md-12">
+              <p>
+                This is a data portal meant for students of Shah and Anchor
+                Kutchhi Enginnering College.
+              </p>
+              <p>
+                You can find the complete code on
+                <a
+                  href="https://github.com/azouaoui-med/pro-sidebar-template"
+                  target="_blank"
+                >
+                  Github</a
+                >
+              </p>
+            </div>
+          </div>
+
+          <div id="main">
+            <div id="content">
+              <h2>Properties</h2>
+              <hr />
+              <div class="box">
+                <div class="body">
+                  <p>A quick-glance at some analytics.</p>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-4">
+                  <div class="box property-glance">
+                    <div class="header">
+                      <h4 class="pull-left">Hawkins Point</h4>
+                      <span class="pull-right">Avg. Rent: $790</span>
+                      <div class="progress clear-right">
+                        <div
+                          class="progress-bar"
+                          role="progressbar"
+                          aria-valuenow="75"
+                          aria-valuemin="0"
+                          aria-valuemax="100"
+                          style="width: 75%"
+                        >
+                          70% occupied<span class="sr-only">70% Complete</span>
+                        </div>
+                      </div>
+                      <div class="clear-left">
+                        <i class="fa fa-map-marker"></i
+                        ><span>Mascoutah, IL</span>
+                      </div>
+                    </div>
+                    <div class="body">
+                      <div class="row">
+                        <div class="col-sm-6 statistic text-center">
+                          <h1>24</h1>
+                          <small>units</small>
+                        </div>
+                        <div class="col-sm-6 text-center">
+                          <h1>18</h1>
+                          <small>filled</small>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div
+                          class="col-sm-3 col-xs-6 widget"
+                          data-toggle="tooltip"
+                          data-placement="bottom"
+                          title="Tooltip on bottom"
+                        >
+                          <i class="fa fa-comments-o"></i>
+                        </div>
+                        <div class="col-sm-3 col-xs-6 widget">
+                          <i class="fa fa-line-chart"></i>
+                        </div>
+                        <div class="col-sm-3 col-xs-6 widget">
+                          <i class="fa fa-money"></i>
+                        </div>
+                        <div class="col-sm-3 col-xs-6 widget">
+                          <i class="fa fa-users"></i>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-4">
+                  <div class="box property-glance">
+                    <div class="header">
+                      <h4 class="pull-left">Hawkins Point</h4>
+                      <span class="pull-right">Avg. Rent: $790</span>
+                      <div class="progress clear-right">
+                        <div
+                          class="progress-bar"
+                          role="progressbar"
+                          aria-valuenow="75"
+                          aria-valuemin="0"
+                          aria-valuemax="100"
+                          style="width: 75%"
+                        >
+                          70% occupied<span class="sr-only">70% Complete</span>
+                        </div>
+                      </div>
+                      <div class="clear-left">
+                        <i class="fa fa-map-marker"></i
+                        ><span>Mascoutah, IL</span>
+                      </div>
+                    </div>
+                    <div class="body">
+                      <div class="row">
+                        <div class="col-sm-6 statistic text-center">
+                          <h1>24</h1>
+                          <small>units</small>
+                        </div>
+                        <div class="col-sm-6 text-center">
+                          <h1>18</h1>
+                          <small>filled</small>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div
+                          class="col-sm-3 col-xs-6 widget"
+                          data-toggle="tooltip"
+                          data-placement="bottom"
+                          title="Tooltip on bottom"
+                        >
+                          <i class="fa fa-comments-o"></i>
+                        </div>
+                        <div class="col-sm-3 col-xs-6 widget">
+                          <i class="fa fa-line-chart"></i>
+                        </div>
+                        <div class="col-sm-3 col-xs-6 widget">
+                          <i class="fa fa-money"></i>
+                        </div>
+                        <div class="col-sm-3 col-xs-6 widget">
+                          <i class="fa fa-users"></i>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-4">
+                  <div class="box property-glance">
+                    <div class="header">
+                      <h4 class="pull-left">Hawkins Point</h4>
+                      <span class="pull-right">Avg. Rent: $790</span>
+                      <div class="progress clear-right">
+                        <div
+                          class="progress-bar"
+                          role="progressbar"
+                          aria-valuenow="75"
+                          aria-valuemin="0"
+                          aria-valuemax="100"
+                          style="width: 75%"
+                        >
+                          70% occupied<span class="sr-only">70% Complete</span>
+                        </div>
+                      </div>
+                      <div class="clear-left">
+                        <i class="fa fa-map-marker"></i
+                        ><span>Mascoutah, IL</span>
+                      </div>
+                    </div>
+                    <div class="body">
+                      <div class="row">
+                        <div class="col-sm-6 statistic text-center">
+                          <h1>24</h1>
+                          <small>units</small>
+                        </div>
+                        <div class="col-sm-6 text-center">
+                          <h1>18</h1>
+                          <small>filled</small>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div
+                          class="col-sm-3 col-xs-6 widget"
+                          data-toggle="tooltip"
+                          data-placement="bottom"
+                          title="Tooltip on bottom"
+                        >
+                          <i class="fa fa-comments-o"></i>
+                        </div>
+                        <div class="col-sm-3 col-xs-6 widget">
+                          <i class="fa fa-line-chart"></i>
+                        </div>
+                        <div class="col-sm-3 col-xs-6 widget">
+                          <i class="fa fa-money"></i>
+                        </div>
+                        <div class="col-sm-3 col-xs-6 widget">
+                          <i class="fa fa-users"></i>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <hr />
+              <div class="row p-2">
+                <div class="col-sm-6">
+                  <h3>Recent Messages</h3>
+                  <div class="box" style="margin-top: 20px">
+                    <div class="body">
+                      <p>A quick-glance at work orders and customer needs.</p>
+                    </div>
+                  </div>
+                  <div class="timeline">
+                    <div class="item">
+                      <div class="circle"></div>
+                      <div class="message">
+                        <Here>we have a timeline item</Here>
+                      </div>
+                    </div>
+                    <div class="item">
+                      <div class="circle"></div>
+                      <div class="message">
+                        <Here>we have a timeline item</Here>
+                      </div>
+                    </div>
+                    <div class="item">
+                      <div class="circle"></div>
+                      <div class="message">
+                        <Here>we have a timeline item</Here>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-sm-6">
+                  <h3>Recent Transactions</h3>
+                  <div class="box" style="margin-top: 20px">
+                    <div class="body">
+                      <p>A quick-glance at income and expendatures.</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <h4 class="love">Made with<i class="fa fa-heart"></i></h4>
+            </div>
+          </div>
+        </div>
+      </main>
+      <!-- page-content" -->
+    </div>
+    <!-- page-wrapper -->
+  </body>
+</html>
