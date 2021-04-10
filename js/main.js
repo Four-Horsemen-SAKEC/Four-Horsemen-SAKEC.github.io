@@ -71,9 +71,3 @@ $(function () {
    toggleButton.addEventListener('click', () => {
      document.body.classList.toggle('light-mode');
    });
-
-
-
-
-   // Inspired by https://dribbble.com/shots/1821178-Sales-Report/
-
