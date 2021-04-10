@@ -425,6 +425,7 @@ body.light-mode:before {
   align-items: center;
   width: 100%;
   justify-content: space-between;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png"), linear-gradient(to right top, #cf4af3, #e73bd7, #f631bc, #fd31a2, #ff3a8b, #ff4b78, #ff5e68, #ff705c, #ff8c51, #ffaa49, #ffc848, #ffe652);
   border-radius: 14px;
   padding: 20px 40px;
 }
@@ -865,5 +866,3 @@ body.light-mode:before {
   background: var(--scrollbar-bg);
   border-radius: 10px;
 }
-
-/* Content */
