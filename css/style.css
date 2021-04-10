@@ -382,7 +382,7 @@ body.light-mode:before {
   flex-shrink: 0;
 }
 .main-header .header-menu {
-  margin-left: 150px;
+  margin-left: 20px;
 }
 @media screen and (max-width: 1055px) {
   .main-header .header-menu {
@@ -414,7 +414,7 @@ body.light-mode:before {
   display: flex;
   flex-direction: column;
   color: var(--theme-color);
-  padding: 20px 40px;
+  padding: 5px 40px;
   height: 100%;
   overflow: auto;
   background-color: var(--theme-bg-color);
@@ -495,7 +495,7 @@ body.light-mode:before {
   padding: 8px 26px;
   color: #fff;
   border-radius: 20px;
-  margin-top: 16px;
+  margin-top: 10px;
   cursor: pointer;
   transition: 0.3s;
   white-space: nowrap;
@@ -516,7 +516,7 @@ body.light-mode:before {
 }
 
 .content-section {
-  margin-top: 30px;
+  margin-top: 20px;
   display: flex;
   flex-direction: column;
 }
@@ -806,7 +806,7 @@ body.light-mode:before {
   background-color: var(--content-bg);
   border-radius: 14px;
   border: 1px solid var(--theme-bg-color);
-  padding: 20px;
+  padding: 16px;
   cursor: pointer;
   transition: 0.3s ease;
 }
@@ -839,7 +839,7 @@ body.light-mode:before {
   display: flex;
   align-items: center;
   margin-left: auto;
-  margin-top: 16px;
+  margin-top: 10px;
 }
 @media screen and (max-width: 1110px) {
   .app-card {
