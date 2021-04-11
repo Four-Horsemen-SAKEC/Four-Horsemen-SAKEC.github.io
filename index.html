@@ -16,26 +16,32 @@
     integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
     crossorigin="anonymous"></script>
   <script src="/js/main.js" defer></script>
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js'></script>
+  <link rel="stylesheet" href="css/nav.css">
 </head>
 
 <body>
+
+
+
   <div class="dark-light">
     <svg viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" fill="none" stroke-linecap="round"
       stroke-linejoin="round">
       <path d="M21 12.79A9 9 0 1111.21 3 7 7 0 0021 12.79z" />
     </svg>
   </div>
+
   <div class="app">
     <div class="header m-2">
       <h4 style="text-align: center;">Open Data Portal</h4>
     </div>
+
     <div class="header">
       <div class="header-menu">
-        <a class="menu-link " href="index.html">Home</a>
+        <a class="menu-link is-active" href="index.html">Home</a>
         <a class="menu-link" href="about.html">About</a>
         <a class="menu-link" href="datasets.html">Datasets</a>
-        <a class="menu-link is-active" href="contribute.html">Contribute</a>
+        <a class="menu-link" href="contribute.html">Contribute</a>
       </div>
       <div class="search-bar">
         <input type="text" placeholder="Search" />
@@ -43,7 +49,7 @@
     </div>
     <div class="wrapper">
       <div class="left-side">
-        
+
         <div class="side-wrapper">
           <div class="side-title">Datasets Categories</div>
           <div class="side-menu">
@@ -103,7 +109,7 @@
             </a>
           </div>
         </div>
-        
+
         <div class="side-wrapper">
           <div class="side-title">Resource Links</div>
           <div class="side-menu">
@@ -134,17 +140,94 @@
         </div>
       </div>
       <div class="main-container">
-        <div class="main-header">
-          <div class="header-menu">
-            <a class="main-header-link" href="contribute.html">Statistics</a>
-            <a class="main-header-link is-active" href="#">Upload Dataset</a>
+        <div class="content-wrapper">
+          <div class="content-section">
+            <div class="content-section-title">
+              <h5>Welcome to the Data Portal</h5>
+            </div>
+            <div class="info row">
+              <div class="col-md-8" style="font-size: 1rem;">With so much data around its easy to get lost – or even
+                just not know that data even exists. The core purpose is to enable the rapid discovery and efficient use
+                of data. Our portal makes it easy to find and access data, and helps solve these problems.
+                <br>
+                <br>
+                “Open data and content can be freely used, modified, and shared by anyone for any purpose.”
+                <br>
+                <div style="float: right;"> - Open Knowledge Foundation</div>
+              </div>
+              <canvas id="buyers" width="250" height="200" class="col-md-3"></canvas>
+
+              <script>
+                // line chart data
+                var buyerData = {
+                  labels: ["2015", "2016", "2017", "2018", "2019", "2020"],
+                  datasets: [
+                    {
+                      fillColor: "rgba(112, 145, 230,0.4)",
+                      strokeColor: "#3a6df0",
+                      pointColor: "#fff",
+                      pointStrokeColor: "#9DB86D",
+                      data: [100, 150, 170, 221, 305, 447]
+                    }
+                  ],
+                  options: {
+                    plugins: {
+                      title: {
+                        display: true,
+                        text: 'Usage of Data in recent years'
+                      }
+                    }
+                  }
+                }
+                // get line chart canvas
+                var buyers = document.getElementById('buyers').getContext('2d');
+                // draw line chart
+                chart = new Chart(buyers).Line(buyerData);
+
+              </script>
+            </div>
+            <div class="content-section">
+              <div class="content-section-title">
+                <h5>Explore datasets</h5>
+              </div>
+              <div class="apps-card">
+                <div class="app-card">
+                  <span>
+                    Education
+                  </span>
+                  <div class="app-card__subtext">Get data about education sectors, literacy etc.</div>
+                  <div class="app-card-buttons">
+                    <a href = "education.html" class="content-button status-button" style="text-decoration: none">Explore</a>
+
+                  </div>
+                </div>
+                <div class="app-card">
+                  <span>
+                  Health
+                  </span>
+                  <div class="app-card__subtext">Get data about health sectors and CoVid India dataset.</div>
+                  <div class="app-card-buttons">
+                    <a href = "health.html" class="content-button status-button" style="text-decoration: none">Explore</a>
+
+                  </div>
+                </div>
+                <div class="app-card">
+                  <span>
+                    Indicators
+                  </span>
+                  <div class="app-card__subtext">Get data about HDI, GDP, Democracy Index, etc.</div>
+                  <div class="app-card-buttons">
+                    <a href = "indicators.html" class="content-button status-button" style="text-decoration: none">Explore</a>
+
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-        <div class="content-wrapper">
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdPDq-3zhJwA-F_FPLoH-9PcudF_J6bwvmtI4bnSBauYkD0ew/viewform?embedded=true" width="900" height="1708" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-        </div> 
-       </div>
-       <div class="overlay-app"></div>
       </div>
-    </body>
-    </html>
+      <div class="overlay-app"></div>
+    </div>
+</body>
+
+</html>
