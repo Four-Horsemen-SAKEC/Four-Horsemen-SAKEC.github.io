@@ -1,0 +1,811 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+India,IND,2018,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.96964
+India,IND,2011,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.90899
+India,IND,2006,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.84102
+India,IND,2001,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.80467
+India,IND,1991,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.671329975128174
+India,IND,1981,"Literacy rate, youth (ages 15-24), gender parity index (GPI)",SE.ADT.1524.LT.FM.ZS,0.608030021190643
+India,IND,2017,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.14725
+India,IND,2016,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.16104
+India,IND,2015,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.11618
+India,IND,2014,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.11393
+India,IND,2013,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.11811
+India,IND,2012,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.03883
+India,IND,2011,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.03525
+India,IND,2010,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.02797
+India,IND,2009,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.03223
+India,IND,2008,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,1.01991
+India,IND,2007,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.993
+India,IND,2003,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.98615
+India,IND,2002,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.88545
+India,IND,2001,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.8684
+India,IND,2000,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.85883
+India,IND,1999,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.853479981422424
+India,IND,1998,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.851300001144409
+India,IND,1997,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.846099972724915
+India,IND,1996,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.837740004062653
+India,IND,1995,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.827579975128174
+India,IND,1994,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.825789988040924
+India,IND,1993,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.816240012645721
+India,IND,1992,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.78439998626709
+India,IND,1991,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.772369980812073
+India,IND,1990,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.747460007667542
+India,IND,1989,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.733940005302429
+India,IND,1988,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.748319983482361
+India,IND,1987,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.741540014743805
+India,IND,1986,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.727020025253296
+India,IND,1985,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.70441997051239
+India,IND,1984,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.688080012798309
+India,IND,1983,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.6841099858284
+India,IND,1982,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.67562997341156
+India,IND,1981,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.67562997341156
+India,IND,1980,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.668590009212494
+India,IND,1979,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.664860010147095
+India,IND,1978,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.652159988880157
+India,IND,1977,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.663420021533966
+India,IND,1976,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.661220014095306
+India,IND,1975,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.656140029430389
+India,IND,1974,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.654089987277985
+India,IND,1973,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.653339982032776
+India,IND,1972,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.644959986209869
+India,IND,1971,"School enrollment, primary (gross), gender parity index (GPI)",SE.ENR.PRIM.FM.ZS,0.642530024051666
+India,IND,2017,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.08402
+India,IND,2016,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.09519
+India,IND,2015,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.07018
+India,IND,2014,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.06962
+India,IND,2013,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0725
+India,IND,2012,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,1.0034
+India,IND,2011,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.99853
+India,IND,2010,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.98905
+India,IND,2009,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.98997
+India,IND,2008,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.96705
+India,IND,2007,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.94256
+India,IND,2003,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.9157
+India,IND,2002,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.83037
+India,IND,2001,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.80988
+India,IND,2000,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.80224
+India,IND,1999,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.796970009803772
+India,IND,1997,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.775860011577606
+India,IND,1996,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.762629985809326
+India,IND,1995,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.754369974136353
+India,IND,1994,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.753220021724701
+India,IND,1993,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.740249991416931
+India,IND,1989,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.675429999828339
+India,IND,1988,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.677860021591187
+India,IND,1987,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.668169975280762
+India,IND,1986,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.657949984073639
+India,IND,1984,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.627759993076324
+India,IND,1983,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.640160024166107
+India,IND,1982,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.615899980068207
+India,IND,1981,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.618969976902008
+India,IND,1980,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.610979974269867
+India,IND,1978,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.600009977817535
+India,IND,1977,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.607659995555878
+India,IND,1976,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.603519976139069
+India,IND,1975,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.599870026111603
+India,IND,1973,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.592090010643005
+India,IND,1972,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.582499980926514
+India,IND,1971,"School enrollment, primary and secondary (gross), gender parity index (GPI)",SE.ENR.PRSC.FM.ZS,0.578909993171692
+India,IND,2017,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.01507
+India,IND,2016,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02411
+India,IND,2015,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02118
+India,IND,2014,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02313
+India,IND,2013,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,1.02005
+India,IND,2012,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.96298
+India,IND,2011,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.95581
+India,IND,2010,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.9414
+India,IND,2009,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.93552
+India,IND,2008,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.90001
+India,IND,2007,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.87629
+India,IND,2006,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.85073
+India,IND,2005,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.83893
+India,IND,2004,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.82241
+India,IND,2003,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.82004
+India,IND,2002,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.75681
+India,IND,2001,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.72872
+India,IND,2000,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.7216
+India,IND,1999,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.713209986686707
+India,IND,1997,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.67577999830246
+India,IND,1996,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.653819978237152
+India,IND,1995,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.646920025348663
+India,IND,1994,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.64613002538681
+India,IND,1993,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.628440022468567
+India,IND,1989,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.570309996604919
+India,IND,1988,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.555850028991699
+India,IND,1987,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.542850017547607
+India,IND,1986,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.537519991397858
+India,IND,1984,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.515209972858429
+India,IND,1983,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.553210020065308
+India,IND,1982,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.497200012207031
+India,IND,1981,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.501399993896484
+India,IND,1980,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.487360000610352
+India,IND,1978,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.479009985923767
+India,IND,1977,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.472090005874634
+India,IND,1976,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.465389996767044
+India,IND,1975,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.461979985237122
+India,IND,1973,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.438580006361008
+India,IND,1972,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.429349988698959
+India,IND,1971,"School enrollment, secondary (gross), gender parity index (GPI)",SE.ENR.SECO.FM.ZS,0.422399997711182
+India,IND,2018,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.06961
+India,IND,2017,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.04189
+India,IND,2016,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.0152
+India,IND,2015,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,1.00352
+India,IND,2014,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.99749
+India,IND,2013,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.95096
+India,IND,2011,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.79858
+India,IND,2010,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.74056
+India,IND,2009,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.71792
+India,IND,2007,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.71028
+India,IND,2006,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.7334
+India,IND,2005,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.71758
+India,IND,2004,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.68078
+India,IND,2003,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.68655
+India,IND,2002,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.70396
+India,IND,2001,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.68906
+India,IND,2000,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.66198
+India,IND,1997,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.617299973964691
+India,IND,1996,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.610570013523102
+India,IND,1995,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.56862998008728
+India,IND,1991,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.534720003604889
+India,IND,1990,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.52021998167038
+India,IND,1989,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.503880023956299
+India,IND,1988,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.497480005025864
+India,IND,1987,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.45958998799324
+India,IND,1986,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.462550014257431
+India,IND,1985,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.449550002813339
+India,IND,1984,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.418830007314682
+India,IND,1983,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.418289989233017
+India,IND,1982,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.419270008802414
+India,IND,1981,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.389380007982254
+India,IND,1980,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.377579987049103
+India,IND,1979,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.380490005016327
+India,IND,1978,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.36055999994278
+India,IND,1977,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.359109997749329
+India,IND,1976,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.333180010318756
+India,IND,1973,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.29449999332428
+India,IND,1971,"School enrollment, tertiary (gross), gender parity index (GPI)",SE.ENR.TERT.FM.ZS,0.289799988269806
+India,IND,2018,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,11.8
+India,IND,2017,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,11.8
+India,IND,2016,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,12
+India,IND,2015,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,12
+India,IND,2014,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,11.4
+India,IND,2013,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,11
+India,IND,2012,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,11
+India,IND,2011,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,11
+India,IND,2010,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.8
+India,IND,2009,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,10.8
+India,IND,2008,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,9.1
+India,IND,2007,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,9.1
+India,IND,2006,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.3
+India,IND,2005,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.3
+India,IND,2004,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.3
+India,IND,2003,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.8
+India,IND,2002,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.8
+India,IND,2001,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.8
+India,IND,2000,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,9
+India,IND,1999,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.4
+India,IND,1998,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,8.1
+India,IND,1997,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,7.2
+India,IND,1990,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS,5
+India,IND,2019,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,79.7819995880127
+India,IND,2018,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,80.2360000610352
+India,IND,2017,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,80.6940002441406
+India,IND,2016,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,81.1339988708496
+India,IND,2015,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,81.552001953125
+India,IND,2014,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,82.0030021667481
+India,IND,2013,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,82.4190006256103
+India,IND,2012,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,82.7820014953614
+India,IND,2011,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,85.0180015563965
+India,IND,2010,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,87.0259971618652
+India,IND,2009,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,87.4389991760254
+India,IND,2008,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,87.8159980773926
+India,IND,2007,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,88.0380020141602
+India,IND,2006,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,88.4060020446777
+India,IND,2005,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,88.7509994506836
+India,IND,2004,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,89.1559982299804
+India,IND,2003,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,89.5389976501465
+India,IND,2002,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,89.8990020751953
+India,IND,2001,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,90.1989974975586
+India,IND,2000,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,90.4829978942871
+India,IND,1999,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,90.5449981689453
+India,IND,1998,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,90.6459999084473
+India,IND,1997,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,90.7140007019043
+India,IND,1996,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,90.7319984436035
+India,IND,1995,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,90.7739982604981
+India,IND,1994,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,90.8260002136231
+India,IND,1993,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,90.995002746582
+India,IND,1992,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,91.1119995117187
+India,IND,1991,"Vulnerable employment, female (% of female employment) (modeled ILO estimate)",SL.EMP.VULN.FE.ZS,91.2680015563965
+India,IND,2019,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,75.2660021781921
+India,IND,2018,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,75.7070031166076
+India,IND,2017,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,76.1539993286133
+India,IND,2016,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,76.5819959640503
+India,IND,2015,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,76.9839973449707
+India,IND,2014,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,77.4180002212524
+India,IND,2013,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,77.8230028152466
+India,IND,2012,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,78.1810035705566
+India,IND,2011,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,79.4170036315918
+India,IND,2010,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,80.6510019302368
+India,IND,2009,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,80.7520027160644
+India,IND,2008,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,80.8019971847534
+India,IND,2007,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,80.7219982147217
+India,IND,2006,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,80.8139982223511
+India,IND,2005,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,80.9009990692139
+India,IND,2004,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,81.0759973526001
+India,IND,2003,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,81.2539987564087
+India,IND,2002,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,81.3549976348877
+India,IND,2001,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,81.3930006027222
+India,IND,2000,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,81.3829975128173
+India,IND,1999,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,81.2450008392334
+India,IND,1998,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,81.1430025100708
+India,IND,1997,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,80.9600038528443
+India,IND,1996,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,80.7179975509643
+India,IND,1995,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,80.5069990158081
+India,IND,1994,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,80.3159980773925
+India,IND,1993,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,80.6669969558716
+India,IND,1992,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,80.9200029373169
+India,IND,1991,"Vulnerable employment, male (% of male employment) (modeled ILO estimate)",SL.EMP.VULN.MA.ZS,81.2229995727539
+India,IND,2012,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,1.6
+India,IND,2010,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,2.1
+India,IND,2006,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,13.1
+India,IND,2005,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,4.2
+India,IND,2000,"Children in employment, female (% of female children ages 7-14)",SL.TLF.0714.FE.ZS,5.1
+India,IND,2012,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,1.9
+India,IND,2010,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,2.8
+India,IND,2006,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,17.4
+India,IND,2005,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,4.2
+India,IND,2000,"Children in employment, male (% of male children ages 7-14)",SL.TLF.0714.MA.ZS,5.3
+India,IND,2012,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SL.TLF.0714.SW.FE.ZS,17.7
+India,IND,2000,"Children in employment, study and work, female (% of female children in employment, ages 7-14)",SL.TLF.0714.SW.FE.ZS,10.4
+India,IND,2012,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SL.TLF.0714.SW.MA.ZS,17.4
+India,IND,2000,"Children in employment, study and work, male (% of male children in employment, ages 7-14)",SL.TLF.0714.SW.MA.ZS,10.1
+India,IND,2012,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,17.5
+India,IND,2010,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,32.5
+India,IND,2006,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,67.2
+India,IND,2005,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,15.2
+India,IND,2000,"Children in employment, study and work (% of children in employment, ages 7-14)",SL.TLF.0714.SW.ZS,10.2
+India,IND,2012,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SL.TLF.0714.WK.FE.ZS,82.3
+India,IND,2000,"Children in employment, work only, female (% of female children in employment, ages 7-14)",SL.TLF.0714.WK.FE.ZS,89.6
+India,IND,2012,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SL.TLF.0714.WK.MA.ZS,82.6
+India,IND,2000,"Children in employment, work only, male (% of male children in employment, ages 7-14)",SL.TLF.0714.WK.MA.ZS,89.9
+India,IND,2012,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,82.5
+India,IND,2010,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,67.5
+India,IND,2006,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,32.8
+India,IND,2005,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,84.9
+India,IND,2000,"Children in employment, work only (% of children in employment, ages 7-14)",SL.TLF.0714.WK.ZS,89.8
+India,IND,2012,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,1.7
+India,IND,2010,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,2.5
+India,IND,2006,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,15.3
+India,IND,2005,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,4.2
+India,IND,2000,"Children in employment, total (% of children ages 7-14)",SL.TLF.0714.ZS,5.2
+India,IND,2019,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,12.5349998474121
+India,IND,2018,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,12.7729997634888
+India,IND,2017,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,13.0109996795654
+India,IND,2016,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,13.5229997634888
+India,IND,2015,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,13.9820003509521
+India,IND,2014,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,14.3129997253418
+India,IND,2013,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,14.5600004196167
+India,IND,2012,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,14.7489995956421
+India,IND,2011,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,16.0890007019043
+India,IND,2010,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,17.5219993591309
+India,IND,2009,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,18.7280006408691
+India,IND,2008,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,20.003999710083
+India,IND,2007,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,21.3549995422363
+India,IND,2006,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,22.7840003967285
+India,IND,2005,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,24.2959995269775
+India,IND,2004,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,24.2220001220703
+India,IND,2003,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,24.1459999084473
+India,IND,2002,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,24.0699996948242
+India,IND,2001,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,23.9990005493164
+India,IND,2000,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,23.9349994659424
+India,IND,1999,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,24.2730007171631
+India,IND,1998,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,24.6229991912842
+India,IND,1997,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,24.9820003509521
+India,IND,1996,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,25.3439998626709
+India,IND,1995,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,25.7059993743896
+India,IND,1994,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.0699996948242
+India,IND,1993,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.0510005950928
+India,IND,1992,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.121000289917
+India,IND,1991,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.2740001678467
+India,IND,1990,"Labor force participation rate for ages 15-24, female (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.FE.ZS,26.5090007781982
+India,IND,2019,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,45.9589996337891
+India,IND,2018,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,46.2290000915527
+India,IND,2017,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,46.5050010681152
+India,IND,2016,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,47.5699996948242
+India,IND,2015,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,48.556999206543
+India,IND,2014,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,49.3009986877441
+India,IND,2013,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,49.9169998168945
+India,IND,2012,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,50.4379997253418
+India,IND,2011,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,52.148998260498
+India,IND,2010,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,53.8660011291504
+India,IND,2009,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,55.9420013427734
+India,IND,2008,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,58.0019989013672
+India,IND,2007,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,60.0379981994629
+India,IND,2006,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,62.0400009155273
+India,IND,2005,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,64.0029983520508
+India,IND,2004,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,63.9679985046387
+India,IND,2003,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,63.9140014648438
+India,IND,2002,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,63.8549995422363
+India,IND,2001,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,63.8190002441406
+India,IND,2000,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,63.8219985961914
+India,IND,1999,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,64.2710037231445
+India,IND,1998,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,64.7649993896484
+India,IND,1997,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,65.2870025634766
+India,IND,1996,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,65.8059997558594
+India,IND,1995,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,66.3000030517578
+India,IND,1994,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,66.7730026245117
+India,IND,1993,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,66.9980010986328
+India,IND,1992,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,67.245002746582
+India,IND,1991,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,67.5380020141602
+India,IND,1990,"Labor force participation rate for ages 15-24, male (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.MA.ZS,67.8939971923828
+India,IND,2019,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,30.1539993286133
+India,IND,2018,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,30.3999996185303
+India,IND,2017,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,30.6480007171631
+India,IND,2016,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,31.4389991760254
+India,IND,2015,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,32.1609992980957
+India,IND,2014,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,32.693000793457
+India,IND,2013,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,33.1129989624023
+India,IND,2012,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,33.4539985656738
+India,IND,2011,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,34.9650001525879
+India,IND,2010,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,36.523998260498
+India,IND,2009,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,38.1619987487793
+India,IND,2008,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,39.8230018615723
+India,IND,2007,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,41.5069999694824
+India,IND,2006,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,43.2150001525879
+India,IND,2005,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,44.9449996948242
+India,IND,2004,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,44.8800010681152
+India,IND,2003,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,44.8079986572266
+India,IND,2002,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,44.7379989624023
+India,IND,2001,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,44.6829986572266
+India,IND,2000,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,44.6510009765625
+India,IND,1999,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,45.0470008850098
+India,IND,1998,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,45.4720001220703
+India,IND,1997,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,45.9160003662109
+India,IND,1996,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,46.3610000610352
+India,IND,1995,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,46.7949981689453
+India,IND,1994,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,47.2210006713867
+India,IND,1993,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,47.3330001831055
+India,IND,1992,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,47.5
+India,IND,1991,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,47.7290000915527
+India,IND,1990,"Labor force participation rate for ages 15-24, total (%) (modeled ILO estimate)",SL.TLF.ACTI.1524.ZS,48.0270004272461
+India,IND,2019,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,24.6730003356934
+India,IND,2018,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,24.8430004119873
+India,IND,2017,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,25.011999130249
+India,IND,2016,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,24.8939990997314
+India,IND,2015,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,24.7479991912842
+India,IND,2014,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,24.5949993133545
+India,IND,2013,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,24.423999786377
+India,IND,2012,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,24.246000289917
+India,IND,2011,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,25.6469993591309
+India,IND,2010,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,27.1149997711182
+India,IND,2009,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,28.3770008087158
+India,IND,2008,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,29.681999206543
+India,IND,2007,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,31.0300006866455
+India,IND,2006,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,32.4259986877441
+India,IND,2005,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,33.8699989318848
+India,IND,2004,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,33.4720001220703
+India,IND,2003,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,33.0810012817383
+India,IND,2002,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,32.6949996948242
+India,IND,2001,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,32.314998626709
+India,IND,2000,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,31.9419994354248
+India,IND,1999,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,31.9909992218018
+India,IND,1998,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,32.0449981689453
+India,IND,1997,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,32.1030006408691
+India,IND,1996,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,32.1609992980957
+India,IND,1995,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,32.2179985046387
+India,IND,1994,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,32.2770004272461
+India,IND,1993,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,32.0670013427734
+India,IND,1992,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,31.9230003356934
+India,IND,1991,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,31.8299999237061
+India,IND,1990,"Labor force participation rate, female (% of female population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.FE.ZS,31.7819995880127
+India,IND,2019,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,81.6289978027344
+India,IND,2018,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,81.5839996337891
+India,IND,2017,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,81.5429992675781
+India,IND,2016,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,81.7839965820313
+India,IND,2015,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,82.0090026855469
+India,IND,2014,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,82.1620025634766
+India,IND,2013,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,82.2809982299805
+India,IND,2012,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,82.3730010986328
+India,IND,2011,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,82.8669967651367
+India,IND,2010,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,83.3580017089844
+India,IND,2009,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,83.8600006103516
+India,IND,2008,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,84.359001159668
+India,IND,2007,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,84.8570022583008
+India,IND,2006,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,85.359001159668
+India,IND,2005,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,85.8659973144531
+India,IND,2004,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,85.7590026855469
+India,IND,2003,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,85.6559982299805
+India,IND,2002,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,85.5599975585938
+India,IND,2001,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,85.4739990234375
+India,IND,2000,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,85.4029998779297
+India,IND,1999,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,85.6289978027344
+India,IND,1998,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,85.8710021972656
+India,IND,1997,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.120002746582
+India,IND,1996,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.3639984130859
+India,IND,1995,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.5950012207031
+India,IND,1994,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.8089981079102
+India,IND,1993,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.8570022583008
+India,IND,1992,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.9089965820313
+India,IND,1991,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,86.9749984741211
+India,IND,1990,"Labor force participation rate, male (% of male population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.MA.ZS,87.0630035400391
+India,IND,2019,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.189998626709
+India,IND,2018,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.2470016479492
+India,IND,2017,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.306999206543
+India,IND,2016,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.3759994506836
+India,IND,2015,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.4230003356934
+India,IND,2014,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.4269981384277
+India,IND,2013,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.4049987792969
+India,IND,2012,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,54.367000579834
+India,IND,2011,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,55.2960014343262
+India,IND,2010,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,56.2550010681152
+India,IND,2009,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,57.1180000305176
+India,IND,2008,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58
+India,IND,2007,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,58.9029998779297
+India,IND,2006,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.8320007324219
+India,IND,2005,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.7900009155273
+India,IND,2004,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.5400009155273
+India,IND,2003,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.2980003356934
+India,IND,2002,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.0639991760254
+India,IND,2001,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.8390007019043
+India,IND,2000,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.6230010986328
+India,IND,1999,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.7639999389648
+India,IND,1998,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,59.9160003662109
+India,IND,1997,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.0740013122559
+India,IND,1996,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.2319984436035
+India,IND,1995,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.3860015869141
+India,IND,1994,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.5299987792969
+India,IND,1993,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.4599990844727
+India,IND,1992,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.4259986877441
+India,IND,1991,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.423999786377
+India,IND,1990,"Labor force participation rate, total (% of total population ages 15-64) (modeled ILO estimate)",SL.TLF.ACTI.ZS,60.4519996643066
+India,IND,2019,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.4130001068115
+India,IND,2018,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.6049995422363
+India,IND,2017,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.7959995269775
+India,IND,2016,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.6569995880127
+India,IND,2015,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.5009994506836
+India,IND,2014,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.3500003814697
+India,IND,2013,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.1860008239746
+India,IND,2012,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,23.0179996490479
+India,IND,2011,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,24.3889999389648
+India,IND,2010,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,25.8290004730225
+India,IND,2009,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,27.0100002288818
+India,IND,2008,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,28.2320003509521
+India,IND,2007,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,29.4969997406006
+India,IND,2006,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.8080005645752
+India,IND,2005,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,32.1689987182617
+India,IND,2004,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,31.7950000762939
+India,IND,2003,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,31.4300003051758
+India,IND,2002,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,31.0729999542236
+India,IND,2001,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.7229995727539
+India,IND,2000,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.3810005187988
+India,IND,1999,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.4489994049072
+India,IND,1998,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.5219993591309
+India,IND,1997,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.5979995727539
+India,IND,1996,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.6760005950928
+India,IND,1995,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.7549991607666
+India,IND,1994,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.8239994049072
+India,IND,1993,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.6340007781982
+India,IND,1992,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.503999710083
+India,IND,1991,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.4220008850098
+India,IND,1990,"Labor force participation rate, female (% of female population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.FE.ZS,30.3819999694824
+India,IND,2019,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.568000793457
+India,IND,2018,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.6169967651367
+India,IND,2017,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.6719970703125
+India,IND,2016,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,78.9720001220703
+India,IND,2015,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,79.2590026855469
+India,IND,2014,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,79.4690017700195
+India,IND,2013,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,79.6439971923828
+India,IND,2012,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,79.7900009155273
+India,IND,2011,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,80.25
+India,IND,2010,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,80.7129974365234
+India,IND,2009,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,81.2300033569336
+India,IND,2008,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,81.7470016479492
+India,IND,2007,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,82.2669982910156
+India,IND,2006,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,82.7929992675781
+India,IND,2005,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,83.3280029296875
+India,IND,2004,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,83.2379989624023
+India,IND,2003,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,83.1559982299805
+India,IND,2002,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,83.0849990844727
+India,IND,2001,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,83.0299987792969
+India,IND,2000,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,82.9919967651367
+India,IND,1999,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,83.2580032348633
+India,IND,1998,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,83.5410003662109
+India,IND,1997,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,83.8349990844727
+India,IND,1996,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,84.129997253418
+India,IND,1995,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,84.4189987182617
+India,IND,1994,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,84.6679992675781
+India,IND,1993,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,84.7369995117188
+India,IND,1992,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,84.8109970092773
+India,IND,1991,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,84.9010009765625
+India,IND,1990,"Labor force participation rate, male (% of male population ages 15+) (modeled ILO estimate)",SL.TLF.CACT.MA.ZS,85.0130004882813
+India,IND,2019,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.56900000572205
+India,IND,2018,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.55900001525879
+India,IND,2017,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.55800008773804
+India,IND,2016,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.80900001525879
+India,IND,2015,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.89599990844727
+India,IND,2014,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.83899998664856
+India,IND,2013,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.85599994659424
+India,IND,2012,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.70700001716614
+India,IND,2011,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.48499989509583
+India,IND,2010,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.31699991226196
+India,IND,2009,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.22699999809265
+India,IND,2008,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.98300004005432
+India,IND,2007,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.32100009918213
+India,IND,2006,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.73499989509583
+India,IND,2005,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,4.17399978637695
+India,IND,2004,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.8529999256134
+India,IND,2003,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.56800007820129
+India,IND,2002,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,3.08599996566772
+India,IND,2001,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.68199992179871
+India,IND,2000,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.3989999294281
+India,IND,1999,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.51999998092651
+India,IND,1998,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.40300011634827
+India,IND,1997,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.42700004577637
+India,IND,1996,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.57200002670288
+India,IND,1995,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.5550000667572
+India,IND,1994,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.51999998092651
+India,IND,1993,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.46300005912781
+India,IND,1992,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.25600004196167
+India,IND,1991,"Unemployment, female (% of female labor force) (modeled ILO estimate)",SL.UEM.TOTL.FE.ZS,2.18899989128113
+India,IND,2019,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.26500010490417
+India,IND,2018,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.26600003242493
+India,IND,2017,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.2720000743866
+India,IND,2016,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.42600011825562
+India,IND,2015,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.47099995613098
+India,IND,2014,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.46799993515015
+India,IND,2013,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.53999996185303
+India,IND,2012,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.41300010681152
+India,IND,2011,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.24300003051758
+India,IND,2010,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.1800000667572
+India,IND,2009,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.24000000953674
+India,IND,2008,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.03600001335144
+India,IND,2007,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.08800005912781
+India,IND,2006,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.38700008392334
+India,IND,2005,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.71199989318848
+India,IND,2004,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.82599997520447
+India,IND,2003,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.04399991035461
+India,IND,2002,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,3.03999996185303
+India,IND,2001,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.93400001525879
+India,IND,2000,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.84500002861023
+India,IND,1999,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.82100009918213
+India,IND,1998,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.76200008392334
+India,IND,1997,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.70000004768372
+India,IND,1996,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.69700002670288
+India,IND,1995,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.63000011444092
+India,IND,1994,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.61500000953674
+India,IND,1993,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.60999989509583
+India,IND,1992,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.45900011062622
+India,IND,1991,"Unemployment, male (% of male labor force) (modeled ILO estimate)",SL.UEM.TOTL.MA.ZS,2.41899991035461
+India,IND,2018,Refugee population by country or territory of asylum,SM.POP.REFG,195891
+India,IND,2017,Refugee population by country or territory of asylum,SM.POP.REFG,197122
+India,IND,2016,Refugee population by country or territory of asylum,SM.POP.REFG,197851
+India,IND,2015,Refugee population by country or territory of asylum,SM.POP.REFG,201381
+India,IND,2014,Refugee population by country or territory of asylum,SM.POP.REFG,199937
+India,IND,2013,Refugee population by country or territory of asylum,SM.POP.REFG,188395
+India,IND,2012,Refugee population by country or territory of asylum,SM.POP.REFG,185656
+India,IND,2011,Refugee population by country or territory of asylum,SM.POP.REFG,185118
+India,IND,2010,Refugee population by country or territory of asylum,SM.POP.REFG,184821
+India,IND,2009,Refugee population by country or territory of asylum,SM.POP.REFG,185323
+India,IND,2008,Refugee population by country or territory of asylum,SM.POP.REFG,184543
+India,IND,2007,Refugee population by country or territory of asylum,SM.POP.REFG,161537
+India,IND,2006,Refugee population by country or territory of asylum,SM.POP.REFG,158366
+India,IND,2005,Refugee population by country or territory of asylum,SM.POP.REFG,139283
+India,IND,2004,Refugee population by country or territory of asylum,SM.POP.REFG,162687
+India,IND,2003,Refugee population by country or territory of asylum,SM.POP.REFG,164757
+India,IND,2002,Refugee population by country or territory of asylum,SM.POP.REFG,168855
+India,IND,2001,Refugee population by country or territory of asylum,SM.POP.REFG,169549
+India,IND,2000,Refugee population by country or territory of asylum,SM.POP.REFG,170941
+India,IND,1999,Refugee population by country or territory of asylum,SM.POP.REFG,180031
+India,IND,1998,Refugee population by country or territory of asylum,SM.POP.REFG,185516
+India,IND,1997,Refugee population by country or territory of asylum,SM.POP.REFG,223073
+India,IND,1996,Refugee population by country or territory of asylum,SM.POP.REFG,233370
+India,IND,1995,Refugee population by country or territory of asylum,SM.POP.REFG,227480
+India,IND,1994,Refugee population by country or territory of asylum,SM.POP.REFG,258341
+India,IND,1993,Refugee population by country or territory of asylum,SM.POP.REFG,262798
+India,IND,1992,Refugee population by country or territory of asylum,SM.POP.REFG,258372
+India,IND,1991,Refugee population by country or territory of asylum,SM.POP.REFG,210569
+India,IND,1990,Refugee population by country or territory of asylum,SM.POP.REFG,212743
+India,IND,2018,Refugee population by country or territory of origin,SM.POP.REFG.OR,9602
+India,IND,2017,Refugee population by country or territory of origin,SM.POP.REFG.OR,7891
+India,IND,2016,Refugee population by country or territory of origin,SM.POP.REFG.OR,7291
+India,IND,2015,Refugee population by country or territory of origin,SM.POP.REFG.OR,9881
+India,IND,2014,Refugee population by country or territory of origin,SM.POP.REFG.OR,10436
+India,IND,2013,Refugee population by country or territory of origin,SM.POP.REFG.OR,11041
+India,IND,2012,Refugee population by country or territory of origin,SM.POP.REFG.OR,14258
+India,IND,2011,Refugee population by country or territory of origin,SM.POP.REFG.OR,16232
+India,IND,2010,Refugee population by country or territory of origin,SM.POP.REFG.OR,17769
+India,IND,2009,Refugee population by country or territory of origin,SM.POP.REFG.OR,19514
+India,IND,2008,Refugee population by country or territory of origin,SM.POP.REFG.OR,19569
+India,IND,2007,Refugee population by country or territory of origin,SM.POP.REFG.OR,20466
+India,IND,2006,Refugee population by country or territory of origin,SM.POP.REFG.OR,17811
+India,IND,2005,Refugee population by country or territory of origin,SM.POP.REFG.OR,16285
+India,IND,2004,Refugee population by country or territory of origin,SM.POP.REFG.OR,13345
+India,IND,2003,Refugee population by country or territory of origin,SM.POP.REFG.OR,13706
+India,IND,2002,Refugee population by country or territory of origin,SM.POP.REFG.OR,14349
+India,IND,2001,Refugee population by country or territory of origin,SM.POP.REFG.OR,11571
+India,IND,2000,Refugee population by country or territory of origin,SM.POP.REFG.OR,11399
+India,IND,1999,Refugee population by country or territory of origin,SM.POP.REFG.OR,9845
+India,IND,1998,Refugee population by country or territory of origin,SM.POP.REFG.OR,9663
+India,IND,1997,Refugee population by country or territory of origin,SM.POP.REFG.OR,8924
+India,IND,1996,Refugee population by country or territory of origin,SM.POP.REFG.OR,7550
+India,IND,1995,Refugee population by country or territory of origin,SM.POP.REFG.OR,5011
+India,IND,1994,Refugee population by country or territory of origin,SM.POP.REFG.OR,3263
+India,IND,1993,Refugee population by country or territory of origin,SM.POP.REFG.OR,1492
+India,IND,1992,Refugee population by country or territory of origin,SM.POP.REFG.OR,1019
+India,IND,1991,Refugee population by country or territory of origin,SM.POP.REFG.OR,408
+India,IND,1990,Refugee population by country or territory of origin,SM.POP.REFG.OR,198
+India,IND,2017,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,13.177
+India,IND,2016,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,16.152
+India,IND,2015,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,19.127
+India,IND,2014,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,22.102
+India,IND,2013,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,25.077
+India,IND,2012,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,28.052
+India,IND,2011,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,31.3534
+India,IND,2010,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,34.6548
+India,IND,2009,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,37.9562
+India,IND,2008,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,41.2576
+India,IND,2007,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,44.559
+India,IND,2006,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,47.679
+India,IND,2005,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,50.799
+India,IND,2004,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,53.919
+India,IND,2003,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,57.039
+India,IND,2002,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,60.159
+India,IND,2001,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,63.498
+India,IND,2000,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,66.837
+India,IND,1999,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,70.176
+India,IND,1998,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,73.515
+India,IND,1997,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,76.854
+India,IND,1996,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,80.2784
+India,IND,1995,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,83.7028
+India,IND,1994,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,87.1272
+India,IND,1993,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,90.5516
+India,IND,1992,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,93.976
+India,IND,1991,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,96.3826
+India,IND,1990,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,98.7892
+India,IND,1989,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,101.1958
+India,IND,1988,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,103.6024
+India,IND,1987,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,106.009
+India,IND,1986,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,106.6984
+India,IND,1985,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,107.3878
+India,IND,1984,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,108.0772
+India,IND,1983,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,108.7666
+India,IND,1982,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,109.456
+India,IND,1981,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,109.2294
+India,IND,1980,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,109.0028
+India,IND,1979,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,108.7762
+India,IND,1978,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,108.5496
+India,IND,1977,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,108.323
+India,IND,1976,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,108.5294
+India,IND,1975,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,108.7358
+India,IND,1974,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,108.9422
+India,IND,1973,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,109.1486
+India,IND,1972,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,109.355
+India,IND,1971,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,108.8364
+India,IND,1970,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,108.3178
+India,IND,1969,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,107.7992
+India,IND,1968,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,107.2806
+India,IND,1967,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,106.762
+India,IND,1966,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,106.2626
+India,IND,1965,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,105.7632
+India,IND,1964,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,105.2638
+India,IND,1963,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,104.7644
+India,IND,1962,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,104.265
+India,IND,1961,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,104.093
+India,IND,1960,"Adolescent fertility rate (births per 1,000 women ages 15-19)",SP.ADO.TFRT,103.921
+India,IND,2017,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.425
+India,IND,2016,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,70.142
+India,IND,2015,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.835
+India,IND,2014,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.491
+India,IND,2013,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,69.106
+India,IND,2012,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.68
+India,IND,2011,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,68.218
+India,IND,2010,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.73
+India,IND,2009,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,67.231
+India,IND,2008,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.735
+India,IND,2007,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,66.253
+India,IND,2006,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.793
+India,IND,2005,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,65.357
+India,IND,2004,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,64.943
+India,IND,2003,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,64.543
+India,IND,2002,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,64.145
+India,IND,2001,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.745
+India,IND,2000,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,63.334
+India,IND,1999,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.906
+India,IND,1998,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,62.46
+India,IND,1997,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,61.992
+India,IND,1996,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,61.503
+India,IND,1995,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,60.991
+India,IND,1994,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,60.454
+India,IND,1993,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,59.9
+India,IND,1992,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,59.337
+India,IND,1991,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,58.774
+India,IND,1990,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,58.226
+India,IND,1989,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,57.707
+India,IND,1988,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,57.226
+India,IND,1987,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,56.782
+India,IND,1986,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,56.373
+India,IND,1985,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.988
+India,IND,1984,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.616
+India,IND,1983,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,55.237
+India,IND,1982,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.835
+India,IND,1981,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,54.397
+India,IND,1980,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,53.912
+India,IND,1979,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,53.371
+India,IND,1978,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,52.779
+India,IND,1977,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,52.142
+India,IND,1976,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,51.466
+India,IND,1975,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,50.759
+India,IND,1974,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,50.029
+India,IND,1973,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,49.29
+India,IND,1972,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,48.55
+India,IND,1971,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,47.818
+India,IND,1970,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,47.099
+India,IND,1969,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,46.393
+India,IND,1968,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,45.698
+India,IND,1967,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,45.012
+India,IND,1966,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,44.335
+India,IND,1965,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,43.669
+India,IND,1964,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,43.015
+India,IND,1963,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,42.375
+India,IND,1962,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,41.748
+India,IND,1961,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,41.133
+India,IND,1960,"Life expectancy at birth, female (years)",SP.DYN.LE00.FE.IN,40.529
+India,IND,2017,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,68
+India,IND,2016,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.745
+India,IND,2015,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.468
+India,IND,2014,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,67.167
+India,IND,2013,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.84
+India,IND,2012,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.488
+India,IND,2011,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,66.115
+India,IND,2010,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.723
+India,IND,2009,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,65.32
+India,IND,2008,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.91
+India,IND,2007,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.499
+India,IND,2006,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,64.091
+India,IND,2005,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.689
+India,IND,2004,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,63.293
+India,IND,2003,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.902
+India,IND,2002,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.511
+India,IND,2001,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,62.121
+India,IND,2000,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.729
+India,IND,1999,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,61.335
+India,IND,1998,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.936
+India,IND,1997,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.531
+India,IND,1996,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,60.121
+India,IND,1995,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.703
+India,IND,1994,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,59.277
+India,IND,1993,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,58.843
+India,IND,1992,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,58.405
+India,IND,1991,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,57.967
+India,IND,1990,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,57.536
+India,IND,1989,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,57.122
+India,IND,1988,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,56.727
+India,IND,1987,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,56.352
+India,IND,1986,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,55.994
+India,IND,1985,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,55.647
+India,IND,1984,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,55.302
+India,IND,1983,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,54.949
+India,IND,1982,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,54.577
+India,IND,1981,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,54.182
+India,IND,1980,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,53.758
+India,IND,1979,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,53.305
+India,IND,1978,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.828
+India,IND,1977,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,52.33
+India,IND,1976,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.812
+India,IND,1975,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,51.275
+India,IND,1974,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,50.719
+India,IND,1973,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,50.146
+India,IND,1972,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,49.558
+India,IND,1971,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,48.958
+India,IND,1970,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,48.35
+India,IND,1969,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,47.737
+India,IND,1968,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,47.123
+India,IND,1967,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,46.509
+India,IND,1966,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,45.898
+India,IND,1965,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,45.29
+India,IND,1964,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,44.685
+India,IND,1963,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,44.081
+India,IND,1962,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,43.477
+India,IND,1961,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,42.872
+India,IND,1960,"Life expectancy at birth, male (years)",SP.DYN.LE00.MA.IN,42.266
