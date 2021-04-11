@@ -143,10 +143,15 @@
         <div class="content-wrapper">
           <div class="content-section">
             <div class="content-section-title">
-              <h5>Welcome to the Data Portal</h5>
+              <div class="row">
+              <h5 class="col-md-8" style="margin-right: 2.5em;">Welcome to the Data Portal</h5>
+              <h6 class="col-md-3">Data Usage over recent years</h6>
+            </div>
+
             </div>
             <div class="info row">
-              <div class="col-md-8" style="font-size:0.9rem; font-weight: 350;">With so much data around its easy to get lost – or even
+              <div class="col-md-8" style="font-size:0.9rem; font-weight: 350; margin-right: 3.25em;">With so much data around its easy to get
+                lost – or even
                 just not know that data even exists. The core purpose is to enable the rapid discovery and efficient use
                 of data. Our portal makes it easy to find and access data, and helps solve these problems.
                 <br>
@@ -168,24 +173,26 @@
                       pointColor: "#fff",
                       pointStrokeColor: "#9DB86D",
                       data: [100, 150, 170, 221, 305, 447]
+                      
+
                     }
                   ],
-                  options: 
-                  {
-                    plugins: 
-                    {
-                      title: 
-                      {
-                        display: true,
-                        text: 'Usage of Data in recent years'
-                      }
-                    }
-                  }
+                  
                 }
+                
                 // get line chart canvas
                 var buyers = document.getElementById('buyers').getContext('2d');
                 // draw line chart
-                chart = new Chart(buyers).Line(buyerData);
+                chart = new Chart(buyers).Line(buyerData, 
+                {
+                  options: 
+                  {
+                    title: {
+                      display: true,
+                      text: 'TEST'
+                    }
+                  }
+                });
 
               </script>
             </div>
@@ -200,17 +207,18 @@
                   </span>
                   <div class="app-card__subtext">Get data about education sectors, literacy etc.</div>
                   <div class="app-card-buttons">
-                    <a href = "education.html" class="content-button status-button" style="text-decoration: none">Explore</a>
+                    <a href="education.html" class="content-button status-button"
+                      style="text-decoration: none">Explore</a>
 
                   </div>
                 </div>
                 <div class="app-card">
                   <span>
-                  Health
+                    Health
                   </span>
                   <div class="app-card__subtext">Get data about health sectors and CoVid India dataset.</div>
                   <div class="app-card-buttons">
-                    <a href = "health.html" class="content-button status-button" style="text-decoration: none">Explore</a>
+                    <a href="health.html" class="content-button status-button" style="text-decoration: none">Explore</a>
 
                   </div>
                 </div>
@@ -220,7 +228,8 @@
                   </span>
                   <div class="app-card__subtext">Get data about HDI, GDP, Democracy Index, etc.</div>
                   <div class="app-card-buttons">
-                    <a href = "indicators.html" class="content-button status-button" style="text-decoration: none">Explore</a>
+                    <a href="indicators.html" class="content-button status-button"
+                      style="text-decoration: none">Explore</a>
 
                   </div>
                 </div>
