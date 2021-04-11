@@ -79,7 +79,6 @@ else{
  });
 
 function themeMode() {
-// checking if 'theme' key exists
 if(localStorage.getItem("theme") !== null){
     if(localStorage.getItem("theme") === "dark-light"){
         document.body.classList.remove("light-mode");
