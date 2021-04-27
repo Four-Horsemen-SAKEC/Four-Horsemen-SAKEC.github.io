@@ -14,3 +14,5 @@ Tried to use node.js (as can be seen in previous commits) as server for datasets
 4. Try React 
 5. Continously add more datasets
 
+# Update:
+This Data Portal won the first prize at Stanford Open Datathon conducted over April 10 & 11.
