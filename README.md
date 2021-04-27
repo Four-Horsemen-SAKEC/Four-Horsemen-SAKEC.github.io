@@ -15,4 +15,4 @@ Tried to use node.js (as can be seen in previous commits) as server for datasets
 5. Continously add more datasets
 
 # Update:
-This Data Portal won the first prize at Stanford Open Datathon conducted over April 10 & 11.
+This Data Portal won the first prize at Stanford Open Datathon conducted over April 10 & 11. First prize was 1,000 USD
